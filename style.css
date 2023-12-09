@@ -77,3 +77,13 @@ label i
 }
 
 
+@media(max-width:600px)
+{
+    .container
+    {
+        flex-direction: column;
+        gap: 3rem;
+    }
+}
+
+
