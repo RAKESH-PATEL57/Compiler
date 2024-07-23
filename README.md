@@ -19,7 +19,7 @@ Check out the live demo [ https://rakesh-patel57.github.io/Compiler/ ].
 - **Responsive Design:** Ensures the website is accessible and looks great on all devices, from desktops to mobile phones.
 - **Interactive Elements:** Engages users with interactive features and real-time feedback.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
